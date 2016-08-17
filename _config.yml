@@ -1,7 +1,7 @@
 name: St. Ranger
 favicon: null
-layout_spectrum: 0.6823960498441011
-typography_spectrum: 0.4725306173786521
+layout_spectrum: 0.73828
+typography_spectrum: 0.15799
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7038806616328657
-  lightness: 0.9544330853968859
+    - '#ffffff'
+    - '#2c3053'
+    - '#c8a798'
+    - '#47546c'
+    - '#8b6871'
+  brandStrength: 0.8125
+  lightness: 1
   saturation: 0.4222426898777485
-  rhythmicContrast: 0.27161540114320815
+  rhythmicContrast: 0.75
 purpose: []
