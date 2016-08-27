@@ -1,4 +1,7 @@
-purpose: []
+name: St. Ranger
+favicon: null
+layout_spectrum: 0.10904
+typography_spectrum: 0.15799
 collections:
   - index:
       path: /
@@ -11,30 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5179211
-  brandStrength: 0.5985663
-  lightness: 0.9928315
   brandColors:
     - '#ffffff'
     - '#2c3053'
     - '#c8a798'
     - '#47546c'
     - '#8b6871'
-  rhythmicContrast: 0.6935484
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: St. Ranger
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.15799
-layout_spectrum: 0.5806451
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []
